@@ -1,20 +1,13 @@
-
-import java.util.List;
-
 class Solution {
     public boolean isAcronym(List<String> words, String s) {
-        return check(words, s, 0);
-    }
-
-    private boolean check(List<String> words, String s, int i) {
-        if (i == words.size()) {
-            return i == s.length();
+        if(words.size()!= s.length()){
+         return false;
         }
-
-        if (i >= s.length() || words.get(i).charAt(0) != s.charAt(i)) {
-            return false;
+        for(int i=0;i<s.length();i++){
+            if(words.get(i).charAt(0) != s.charAt(i)){
+                return false;
+            }
         }
-
-        return check(words, s, i + 1);
+return true;
     }
 }
