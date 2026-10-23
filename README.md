@@ -21,8 +21,13 @@
 |  |
 | ------- |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
