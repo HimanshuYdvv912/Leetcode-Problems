@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
