@@ -59,8 +59,21 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0039-combination-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
