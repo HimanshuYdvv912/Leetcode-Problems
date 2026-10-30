@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 ## Backtracking
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
