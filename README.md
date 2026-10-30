@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
