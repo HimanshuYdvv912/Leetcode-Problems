@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -85,6 +86,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -105,4 +107,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
