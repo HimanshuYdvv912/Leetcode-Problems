@@ -39,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -129,4 +131,20 @@
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/1006-clumsy-factorial) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
