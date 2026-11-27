@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/HimanshuYdvv912/Leetcode-Problems/tree/master/0509-fibonacci-number) |
